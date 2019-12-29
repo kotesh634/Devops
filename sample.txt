@@ -1,1 +1,2 @@
-This is an sample text file to use in the git repository.
+This is an sample text file to use in the git repository
+addeed new name in the file:.
